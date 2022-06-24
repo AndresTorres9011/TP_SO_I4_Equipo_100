@@ -2,3 +2,18 @@ A- Quedo en color Azul
 B-Quedo en color Amarillo
 C-Quedo en color Amarillo
 D-Quedo el mismo, por que usamos el mismo Favicon
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+Si, habia un error que evitaba que no se pisara la informacion.
+
+F- ¿Qué problemas surgieron?
+Escapar de VIM, error con los merge al al cambiar los colores del archivos estilo
+
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+La solucion fue usar el push -f para pisar los archivos, o eliminar el merge anterior
+
+H- ¿Qué sucede si cada uno utiliza el push -f?
+
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
