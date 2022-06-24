@@ -11,9 +11,15 @@ Escapar de VIM, error con los merge al al cambiar los colores del archivos estil
 
 G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
 adoptada?
-La solucion fue usar el push -f para pisar los archivos, o eliminar el merge anterior
+La solucion fue usar el push -f para pisar los archivos, o eliminar el merge anterior 
+para no crear conflictor entre los archivos estilo.css. 
 
 H- ¿Qué sucede si cada uno utiliza el push -f?
+Pisamos los commits deñ anterior, Y solo quedara el ultimo push
 
 I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
 en DESARROLLO ?
+Alfa hace el push, Beta debe actualizar y hacer su push, Gamma hace lo mismo de Beta, 
+esto para no pisar los push de los demas.
+
+
