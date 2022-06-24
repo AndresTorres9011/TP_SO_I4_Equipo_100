@@ -1,0 +1,4 @@
+A- Quedo en color Azul
+B-Quedo en color Amarillo
+C-Quedo en color Amarillo
+D-Quedo el mismo, por que usamos el mismo Favicon
